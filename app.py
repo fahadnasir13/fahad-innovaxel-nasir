@@ -58,7 +58,7 @@ def create_short_url():
         "accessCount": 0             # how many times accessed
     }
 
-    #insert docs in db mongo
+    # Insert document into MongoDB
     result = urls_collection.insert_one(new_url)
 
     # Add the MongoDB ID to the response
