@@ -1,6 +1,7 @@
 URL Shortener API – Innovaxel Assignment
 
 This is a simple RESTful API built using **Python (Flask)** and **MongoDB Atlas** that allows users to shorten long URLs and manage them.
+<img width="1908" height="834" alt="image" src="https://github.com/user-attachments/assets/aad6979f-86e6-476f-8470-203ebc56d15f" />
 
 ## 🚀 Features
 
