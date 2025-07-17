@@ -167,6 +167,7 @@ def redirect_to_url(shortcode):
 
 
 if __name__ == "__main__":
+    #main function to call out
     app.run(debug=True)
 
 
